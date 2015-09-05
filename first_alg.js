@@ -2,7 +2,7 @@ function reverseString(str) {
   return str;
 }
 
-result=reverseString('hello');
+result=reverseString('hello worl, baby!');
 console.log(result);
 
 
