@@ -1,9 +1,8 @@
 function explore (str){
 
-return str.indexOf('lo');
+return str.length;
 }
-explore ("hello");
 
-result = explore ("hello");
+result = explore ('A-tisket a-tasket A green and yellow basket');
 
 console.log(result);
